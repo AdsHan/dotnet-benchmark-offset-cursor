@@ -1,5 +1,5 @@
 # dotnet-benchmark-offset-cursor
-Benchmark demonstrando a diferença ao implementar a paginação de resultados usando dois métodos principais: paginação com offset e paginação com cursor.
+Benchmark comparativo entre dois métodos principais de paginação de resultados: paginação com offset e paginação com cursor.
 
 # Como executar:
 - Clonar / baixar o repositório em seu workplace.
